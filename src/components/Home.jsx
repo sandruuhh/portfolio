@@ -31,7 +31,7 @@ function Home() {
             Hi, I’m <span className="bg-gradient-to-r from-violet-600 to-rose-500 text-transparent bg-clip-text">Sandra S S</span>
           </h1>
           <p className="mt-8 text-xl md:text-2xl text-gray-600 leading-relaxed font-normal max-w-2xl mx-auto lg:mx-0">
-            I craft clean, semantic, and highly performant user interfaces. Bridging the gap between robust engineering and intuitive user experiences with cutting-edge web technologies.
+            I craft clean, semantic, and highly performant user interfaces.
           </p>
 
           <div className="mt-10 flex flex-col sm:flex-row gap-5 justify-center lg:justify-start">
